@@ -28,3 +28,4 @@ https://arxiv.org/pdf/1510.05067.pdf - backprop asymmetry
 https://arxiv.org/pdf/1411.0247.pdf - random feedback
 https://arxiv.org/pdf/1609.01596.pdf
 https://arxiv.org/pdf/1604.07480.pdf - can you do this with a bilinear CNN?
+https://arxiv.org/pdf/1610.10033.pdf
