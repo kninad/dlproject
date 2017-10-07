@@ -6,6 +6,9 @@
 - Miller's suggestion: semi supervised (using Pia's prior work)
 
 
+- Backup :satellite
+
+
 ### Deep learning specific
 
 - Tweaking the architechture
