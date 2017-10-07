@@ -18,6 +18,8 @@
 - Spiking neural networks
 - Sir's ideas
 
+https://cs.umd.edu/~miyyer/pubs/2017_cvpr_comics.pdf
+
 
 It’s Moving! A Probabilistic Model for Causal
 Motion Segmentation in Moving Camera Videos - Pia's paper
