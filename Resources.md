@@ -11,5 +11,7 @@
 - Diversity of ReLus
 - Different activations
 - New type of model for a neural network
+- Spiking neural networks
+- Sir's ideas
 
 
