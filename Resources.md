@@ -2,7 +2,8 @@
 
 
 ### Segmentation and Depth (CV)
-
+- Prior works
+- Miller's suggestion: semi supervised (using Pia's prior work)
 
 
 ### Deep learning specific
