@@ -30,4 +30,6 @@ https://arxiv.org/pdf/1609.01596.pdf
 https://arxiv.org/pdf/1604.07480.pdf - can you do this with a bilinear CNN?
 https://arxiv.org/pdf/1610.10033.pdf
 
-https://arxiv.org/pdf/1702.00523.pdf - Deep Learning the Indus Script
+
+[Deep Learning the Indus Script](https://arxiv.org/pdf/1702.00523.pdf) - It can be a good backup  project for CV in case evryhting goes down. What I like about this is that it involves 2-3 areas of CV together with a DL pipeline. (Region proposal -> Segmentation -> Classification). It looks fairly approachable and a good topic to work on (--Ninad)
+ 
