@@ -2,6 +2,6 @@
 
 ### Deep Learning exploration project
 
-Getting a good measure of uncertainty in outputs of a deep neural network.
+A short project to explore the idea of getting a good measure of uncertainty in outputs of a deep neural network.
 
 The project report is available [here](https://ninception.github.io/docs/DL682_final.pdf).
